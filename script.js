@@ -1,7 +1,7 @@
 const questions = [
   {
-    question: "What is the capital of France?",
-    options: ["Paris", "Rome", "Madrid", "Berlin"],
+    question: "What is the capital of India?",
+    options: ["Paris", "Rome", "New Delhi", "Berlin"],
     answer: "Paris"
   },
   {
